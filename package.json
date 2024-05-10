@@ -1,0 +1,14 @@
+{
+  "name": "amchart-map",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "matheus thibau paulino",
+  "license": "ISC",
+  "dependencies": {
+    "@amcharts/amcharts5": "^5.9.7"
+  }
+}
